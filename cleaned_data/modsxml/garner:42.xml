@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">garner:42</identifier>
+   <identifier type="original ID">Garner 215</identifier>
+   <identifier type="document ID">bcapp00121</identifier>
+   <titleInfo>
+      <title>Employees of the Bank of Maryville</title>
+   </titleInfo>
+   <abstract>Pictured are Joe Burger (President), John Badgett, John Tucker, Tobe Cox, Clarence Harris, and Elizabeth Davis. The photograph shows a group of five men and one women standing in front of a wooden teller's cage; there is a man behind the teller's bars. All the men have on suits and ties except one who is dressed in a shirt, pants, jacket, and high lace top boots; the woman has on a patterned dress. There is another teller's cage on the right. On the left there is a writing stand above which are two wall sconces, a number 19 and a calendar for February, 1903. On the ceiling are two lighting fixtures with four lights in each. There are windows visible; the floor is mosaic tile.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n92038217">
+      <namePart>Garner, William Orland, 1858-1940</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>February 19, 1903</dateCreated>
+      <dateCreated encoding="edtf" keyDate="yes">1903-02-19</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <extent>5 x 7 inches</extent>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000773">
+      <topic>Bankers</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009256">
+      <topic>Sconces</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004759">
+      <topic>Group portraits</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm000776">
+      <topic>Banks</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002198">
+      <topic>Clothing &amp; dress</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005458">
+      <topic>Interiors</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007172">
+      <topic>Occupations</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm005976">
+      <topic>Light fixtures</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004132">
+      <topic>Floors</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010817">
+      <topic>Tiles</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006438">
+      <topic>Men</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011765">
+      <topic>Women</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001232">
+      <topic>Boots</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81025935">
+      <geographic>Blount County (Tenn.)</geographic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79022085">
+      <geographic>Maryville (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006073">
+      <geographic>Appalachian Region</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>W. O. Garner Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation>Blount County Public Library</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource>Blount County Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

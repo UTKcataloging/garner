@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">garner:9</identifier>
+   <identifier type="original ID">Garner 166B</identifier>
+   <identifier type="document ID">bcapp00127</identifier>
+   <titleInfo>
+      <title>Group of men, women, and dogs at the entrance to Sheep Pan Bluff, Louisville, Tennessee</title>
+   </titleInfo>
+   <abstract>Shows group of 18 men, women, and children and four dogs sitting and standing on rock formations with the sky in the background on the right side.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n92038217">
+      <namePart>Garner, William Orland, 1858-1940</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/pht">Photographer</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1890-1903</dateCreated>
+      <dateCreated encoding="edtf" point="start" keyDate="yes">1890</dateCreated>
+      <dateCreated encoding="edtf" point="end">1903</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <extent>8 x 10 inches</extent>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006438">
+      <topic>Men</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001966">
+      <topic>Children</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm007743">
+      <topic>Physical geographic features</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004759">
+      <topic>Group portraits</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002198">
+      <topic>Clothing &amp; dress</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003202">
+      <topic>Dogs</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh90005326">
+      <topic>Cliffs--Tennessee</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011765">
+      <topic>Women</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008966">
+      <topic>Rock formations</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009608">
+      <topic>Sightseers</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n84077463">
+      <geographic>Louisville (Tenn.)</geographic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81025935">
+      <geographic>Blount County (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006073">
+      <geographic>Appalachian Region</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>W. O. Garner Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation>Blount County Public Library</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource>Blount County Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
+</mods>

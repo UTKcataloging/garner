@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">garner:105</identifier>
+   <identifier type="original ID">Garner 190A</identifier>
+   <identifier type="document ID">bcapp00115</identifier>
+   <titleInfo>
+      <title>Young African American woman</title>
+   </titleInfo>
+   <abstract>Shows a full length portrait of a standing African American woman, probably a teenager, wearing a long white dress with a decorative high collar and smocking below the neckline. Her hands are in her pockets; her shoes are partially visible below her dress hem. The floor covering has a floral pattern; there is a canvas screen behind her.</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n92038217">
+      <namePart>Garner, William Orland, 1858-1940</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1890-1903</dateCreated>
+      <dateCreated encoding="edtf" point="start" keyDate="yes">1890</dateCreated>
+      <dateCreated encoding="edtf" point="end">1903</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <extent>4 x 5 inches</extent>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003316">
+      <topic>Dresses</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002198">
+      <topic>Clothing and dress</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008085">
+      <topic>Portraits</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004130">
+      <topic>Floor coverings</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010299">
+      <topic>Students</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011765">
+      <topic>Women</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85001932">
+      <topic>African Americans</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010613">
+      <topic>Teenagers</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm009535">
+      <topic>Shoes</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81025935">
+      <geographic>Blount County (Tenn.)</geographic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79022085">
+      <geographic>Maryville (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006073">
+      <geographic>Appalachian Region</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>W. O. Garner Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation>Blount County Public Library</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource>Blount County Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>

@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mods xmlns="http://www.loc.gov/mods/v3"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns:xlink="http://www.w3.org/1999/xlink"
+      xmlns:xs="http://www.w3.org/2001/XMLSchema"
+      xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd">
+   <identifier type="pid">garner:118</identifier>
+   <identifier type="original ID">Garner 155</identifier>
+   <identifier type="document ID">bcapp00101</identifier>
+   <titleInfo>
+      <title>Group photograph on the Freedmen's Normal Institute front porch</title>
+   </titleInfo>
+   <abstract>Shows group of men, women and children posed on the porch of a large brick building. Porch has wooden columns, railings, and steps. In the foreground are men sitting on benches, a wooden fence, and part of a carriage</abstract>
+   <name authority="naf"
+         valueURI="http://id.loc.gov/authorities/names/n92038217">
+      <namePart>Garner, William Orland, 1858-1940</namePart>
+      <role>
+         <roleTerm authority="marcrelator"
+                   valueURI="http://id.loc.gov/vocabulary/relators/asn">Associated name</roleTerm>
+      </role>
+   </name>
+   <originInfo>
+      <dateCreated>1890-1903</dateCreated>
+      <dateCreated encoding="edtf" point="start" keyDate="yes">1890</dateCreated>
+      <dateCreated encoding="edtf" point="end">1903</dateCreated>
+   </originInfo>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300046300">photographs</form>
+      <extent>3 1/2 inch circle</extent>
+      <internetMediaType>image/jpeg</internetMediaType>
+   </physicalDescription>
+   <note displayLabel="Intermediate Provider">University of Tennessee, Knoxville. Libraries</note>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001324">
+      <topic>Bricks</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm004759">
+      <topic>Group portraits</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm008063">
+      <topic>Porches</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm002198">
+      <topic>Clothing &amp; dress</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001405">
+      <topic>Buildings</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001966">
+      <topic>Children</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011716">
+      <topic>Windows</topic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85001932">
+      <topic>African Americans</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm010037">
+      <topic>Stairways</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001405">
+      <topic>Buildings</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm011765">
+      <topic>Women</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm001720">
+      <topic>Carriages &amp; coaches</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm006438">
+      <topic>Men</topic>
+   </subject>
+   <subject authority="tgm"
+            valueURI="http://id.loc.gov/vocabulary/graphicMaterials/tgm003920">
+      <topic>Fences</topic>
+   </subject>
+   <subject>
+      <name>
+         <namePart>Freedmen's Normal Institute (Maryville, Tennessee)</namePart>
+      </name>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n81025935">
+      <geographic>Blount County (Tenn.)</geographic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79022085">
+      <geographic>Maryville (Tenn.)</geographic>
+   </subject>
+   <subject authority="lcsh"
+            valueURI="http://id.loc.gov/authorities/subjects/sh85006073">
+      <geographic>Appalachian Region</geographic>
+   </subject>
+   <typeOfResource>still image</typeOfResource>
+   <relatedItem displayLabel="Project" type="host">
+      <titleInfo>
+         <title>W. O. Garner Photograph Collection</title>
+      </titleInfo>
+   </relatedItem>
+   <location>
+      <physicalLocation>Blount County Public Library</physicalLocation>
+   </location>
+   <recordInfo>
+      <recordContentSource>Blount County Public Library</recordContentSource>
+   </recordInfo>
+   <accessCondition type="use and reproduction"
+                    xlink:href="http://rightsstatements.org/vocab/UND/1.0/">Copyright Undetermined</accessCondition>
+</mods>
